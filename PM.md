@@ -22,3 +22,7 @@ Det gick mindre bra i början för jag var för mycket fokuserad på hur hemsida
 ## Sammanfattning
 
 Den slutsatsen jag kommit fram till är att börja med att lägga in alla delar jag behöver och styla sist. Det kommer göra det mer time efficient och inte ge mig lika mycket problem.
+
+## Validering
+
+Jag har validerat min hemsida och fixat problemen
